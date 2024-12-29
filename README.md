@@ -1,7 +1,7 @@
 # portfolio.github.io
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm [Shakti] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -26,9 +26,9 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Code</dt>
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Shaktiprasa S Inchal</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>01FE23BCI011</dd>
 <dt>Course Instructor</dt>
 <dd>Instructor Name Placeholder</dd>
 <dt>University</dt>
