@@ -24,15 +24,15 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECAC203</dd>
 <dt>Name</dt>
 <dd>Shaktiprasa S Inchal</dd>
 <dt>SRN</dt>
 <dd>01FE23BCI011</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>K M M Rajashekharaiah</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE Technological University</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
