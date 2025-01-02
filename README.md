@@ -26,7 +26,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Code</dt>
 <dd>24ECAC203</dd>
 <dt>Name</dt>
-<dd>Shaktiprasa S Inchal</dd>
+<dd>Shaktiprasad S Inchal</dd>
 <dt>SRN</dt>
 <dd>01FE23BCI011</dd>
 <dt>Course Instructor</dt>
