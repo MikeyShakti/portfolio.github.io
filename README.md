@@ -36,7 +36,10 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
-
+<h2> Lab Reflections </h2>
+<ul>
+    <li><a href="index1.html">Click here to read my DAA LAB REFLECTIONS</a></li>
+</ul>
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
