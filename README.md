@@ -40,6 +40,10 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <ul>
     <li><a href="index1.html">Click here to read my DAA LAB REFLECTIONS</a></li>
 </ul>
+<h2> Theory Reflections </h2>
+<ul>
+    <li><a href="index2.html">Click here to read my DAA Theory Reflections </a></li>
+</ul>
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
