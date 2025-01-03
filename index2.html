@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Reflection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+        h2 {
+            color: #555;
+        }
+        p, ul {
+            margin: 10px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Portfolio Reflection</h1>
+
+        <h2>1. How do you find the best way to solve a tough problem?</h2>
+        <ul>
+            <li><strong>Understand the Problem:</strong> Break it into parts to grasp the constraints, input size, and expected result.</li>
+            <li><strong>Explore Options:</strong> Compare different solutions based on how fast they run and how much memory they use.</li>
+            <li><strong>Focus on Constraints:</strong> If quick results are critical, prioritize speed over memory usage.</li>
+            <li><strong>Test Solutions:</strong> Try with sample data to ensure it handles tricky edge cases well.</li>
+        </ul>
+
+        <h2>2. What do you look for to judge if a solution works well?</h2>
+        <ul>
+            <li><strong>Efficiency:</strong> Does it work fast and use memory wisely?</li>
+            <li><strong>Scalability:</strong> Can it handle bigger or more complex data?</li>
+            <li><strong>Reliability:</strong> Does it handle all possible scenarios correctly?</li>
+            <li><strong>Ease of Maintenance:</strong> Is it simple to read and update later?</li>
+            <li><strong>Simplicity:</strong> Avoid overcomplicating while meeting the goal.</li>
+        </ul>
+
+        <h2>3. How do you manage conflicting needs in a design?</h2>
+        <p><strong>Example:</strong> Building a real-time train scheduling system.</p>
+        <ul>
+            <li><strong>Challenges:</strong> Balancing quick responses (speed) with accurate data analysis (memory).</li>
+            <li><strong>Solution:</strong>
+                <ul>
+                    <li>Used a greedy algorithm for immediate decisions.</li>
+                    <li>Applied dynamic programming for long-term planning in the background.</li>
+                    <li>Cached results to avoid repeating calculations unnecessarily.</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h2>4. When do you keep things simple instead of optimizing?</h2>
+        <ul>
+            <li><strong>Context:</strong> Simplicity wins if the problem is small, well-defined, or needs a quick solution.</li>
+            <li><strong>Resources:</strong> Limited time or tools favor simple methods.</li>
+            <li><strong>Future Changes:</strong> A simple design is easier to update later.</li>
+            <li><strong>Example:</strong> For a school project, I choose simplicity to make it clear and meet learning goals.</li>
+        </ul>
+
+        <h2>5. How does breaking a problem into parts help?</h2>
+        <p><strong>Example:</strong> Solving the Knapsack problem with dynamic programming.</p>
+        <ul>
+            <li><strong>Approach:</strong>
+                <ul>
+                    <li>Split it into smaller tasks (e.g., using fewer items or weights).</li>
+                    <li>Solve each part and build the final answer step by step.</li>
+                </ul>
+            </li>
+            <li><strong>Advantages:</strong> Easier debugging, clearer understanding, and spotting patterns.</li>
+        </ul>
+
+        <h2>6. What are the trade-offs when picking different solutions?</h2>
+        <p><strong>Example:</strong> Comparing Merge Sort and Quick Sort.</p>
+        <ul>
+            <li><strong>Merge Sort:</strong> Reliable and predictable, but uses extra memory (O(n log n)).</li>
+            <li><strong>Quick Sort:</strong> Faster on average but can be slow in the worst case (O(n²)).</li>
+            <li><strong>Decision:</strong> Use Merge Sort for large datasets needing reliability and Quick Sort for smaller, in-memory tasks.</li>
+        </ul>
+
+        <h2>7. How do you find and fix weaknesses in a solution?</h2>
+        <ul>
+            <li><strong>Test:</strong> Run the solution with edge cases and large data.</li>
+            <li><strong>Measure Performance:</strong> Check how much time and memory it uses.</li>
+            <li><strong>Get Feedback:</strong> Ask peers to review and suggest improvements.</li>
+            <li><strong>Optimize:</strong> Focus on improving the slowest or most inefficient parts.</li>
+        </ul>
+
+        <h2>8. When do you innovate versus using existing methods?</h2>
+        <ul>
+            <li><strong>Existing Methods:</strong> Start with them if the problem is familiar and standard solutions work.</li>
+            <li><strong>Innovation:</strong> Create new methods if current ones aren't good enough.</li>
+            <li><strong>Example:</strong> For managing crowded trains, I enhanced Dijkstra’s algorithm by adding real-time passenger data for better efficiency.</li>
+        </ul>
+    </div>
+</body>
+</html>
